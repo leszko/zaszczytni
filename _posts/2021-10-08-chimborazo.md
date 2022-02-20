@@ -1,7 +1,7 @@
 ---
 layout: post
 image:  assets/images/2021-10-08-chimborazo.jpg
-title: Chimborazo 6,263 m | pasmo Andy | Ekwador 🇪🇨
+title: 🇪🇨 Ekwador | Chimborazo 6,310 m | Kordyliera Zachodnia (Andy)
 author: zaszczytni
 ---
 
